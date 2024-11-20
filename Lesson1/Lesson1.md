@@ -7,3 +7,5 @@
 ### 2. 编译并构建Android安装包
 
 ![image-20241120235353695](image-20241120235353695.png)
+
+演示链接：https://www.alipan.com/s/xpYNu4qzrDG
